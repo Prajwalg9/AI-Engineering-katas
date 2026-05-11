@@ -1,1 +1,1 @@
-This repository serves as a technical sandbox for daily syntax experiments, algorithm practice (DSA), and architectural prototyping. For production-grade applications, please refer to my Pinned Repositories.
+This repository serves as a technical sandbox for daily syntax experiments and Data cleaning practice. For production-grade Analytical algorithms, please refer to my Pinned Repositories.
